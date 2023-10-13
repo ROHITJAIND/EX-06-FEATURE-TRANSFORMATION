@@ -99,7 +99,7 @@ Register No: 212222230120
   plt.show()
 
   transformer=PowerTransformer("yeo-johnson")
-  df['ModerateNegativeSkew_2']=pd.DataFrame(transformer.fit_transform(df[['Moderate Negative   Skew']]))
+  df['ModerateNegativeSkew_2']=pd.DataFrame(transformer.fit_transform(df[['Moderate Negative Skew']]))
   sm.qqplot(df['ModerateNegativeSkew_2'],fit=True,line='45')
   plt.title("Moderate Negative Skew")
   plt.show()

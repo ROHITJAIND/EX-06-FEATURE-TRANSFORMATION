@@ -70,8 +70,8 @@ Register No: 212222230120
   plt.title("Moderate Positive Skew")
   plt.show()
   ```
-  <img height=20% width=49% src="https://github.com/ROHITJAIND/EX-06-FEATURE-TRANSFORMATION/assets/118707073/40eb3b47-5fab-4bcc-b29b-166a14481d07">
-  <img height=20% width=49% src="https://github.com/ROHITJAIND/EX-06-FEATURE-TRANSFORMATION/assets/118707073/3db41bdf-7563-4192-bbc7-298ba9836c9e">
+  <img height=17% width=43% src="https://github.com/ROHITJAIND/EX-06-FEATURE-TRANSFORMATION/assets/118707073/40eb3b47-5fab-4bcc-b29b-166a14481d07">
+  <img height=17% width=43% src="https://github.com/ROHITJAIND/EX-06-FEATURE-TRANSFORMATION/assets/118707073/3db41bdf-7563-4192-bbc7-298ba9836c9e">
   
 - Reciprocal Transformation:
   ```Python
@@ -80,7 +80,7 @@ Register No: 212222230120
   plt.title("Highly Positive Skew")
   plt.show()
   ```
-  <img height=20% width=49% src="https://github.com/ROHITJAIND/EX-06-FEATURE-TRANSFORMATION/assets/118707073/ff507c37-5cdf-49f5-bdd8-26ad510444fb">
+  <img height=17% width=43% src="https://github.com/ROHITJAIND/EX-06-FEATURE-TRANSFORMATION/assets/118707073/ff507c37-5cdf-49f5-bdd8-26ad510444fb">
 
 - SquareRoot Transformation:
   ```Python
@@ -89,7 +89,7 @@ Register No: 212222230120
   plt.title("Highly Positive Skew")
   plt.show()
   ```
-  <img height=20% width=49% src="https://github.com/ROHITJAIND/EX-06-FEATURE-TRANSFORMATION/assets/118707073/4bbde658-4fb6-44c2-a810-256118b7986a">
+  <img height=17% width=43% src="https://github.com/ROHITJAIND/EX-06-FEATURE-TRANSFORMATION/assets/118707073/4bbde658-4fb6-44c2-a810-256118b7986a">
 
 - Power Transformation:
   ```Python
